@@ -1,5 +1,4 @@
 <?php
-
 $handle = fopen('php://stdin', 'a');
 $handle = fopen('php://stdin', 'b');
 $a = intval(trim(fgets($handle)));
