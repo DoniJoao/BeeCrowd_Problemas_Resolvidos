@@ -1,5 +1,4 @@
 <?php
-
 $handle = fopen('php://stdin', 'r');
 $raio = floatval(trim(fgets($handle)));
 $pi = 3.14159;
