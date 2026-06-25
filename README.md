@@ -7,4 +7,4 @@
 ### 🛠️ Tecnologias Utilizadas
 
 - [x] **PHP**
-- [x] **Python**
+- [ ] **Python**
