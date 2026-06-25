@@ -8,3 +8,12 @@
 
 - [x] **PHP**
 - [ ] **Python**
+- [ ] **C**
+- [ ] **C++**
+- [ ] **c#**
+- [ ] **java**
+- [ ] **javascript**
+- [ ] **Ruby**
+- [ ] **Dart**
+
+##### estou aberto a sugestão de mais linguagens a ser incluido nesse repositorio
